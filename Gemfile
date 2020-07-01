@@ -79,3 +79,5 @@ group :test do
   gem 'faker', "~> 2.8"
 end
 gem 'jquery-rails'
+gem 'haml-rails'
+gem 'erb2haml'
