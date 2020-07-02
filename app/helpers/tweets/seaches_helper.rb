@@ -1,2 +1,0 @@
-module Tweets::SeachesHelper
-end
